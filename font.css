@@ -1,0 +1,27 @@
+/*The fonts for my webpages*/
+/*By Zhang-X*/
+/*Show time!*/
+
+
+/*↓Chinese*/
+
+@font-face {
+    font-family: "ZX-Z-Aa卑微的我喜欢遥远的你";
+    src:local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2.ttf"),
+        url("Chinese/ZX-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+}
+
+/*↓English*/
+
+@font-face {
+    font-family: "ZX-E-ComicSansMS";
+    src:local("Comic Sans MS"),
+        url("English/ZX-ComicSansMS.ttf");
+}
+
+/*↓Other*/
+
+@font-face {
+    font-family: "ZX-O-FontAwesome";
+    src:url("other/ZX-FontawesomeWebfont.ttf");
+}
