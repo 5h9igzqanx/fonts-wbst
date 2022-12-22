@@ -8,7 +8,7 @@
 @font-face {
     font-family: "ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi";
     src:local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2.ttf"),
-        url("Chinese/ZX-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+        url("Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
 }
 
 /*↓English*/
@@ -16,12 +16,12 @@
 @font-face {
     font-family: "ZX-E-ComicSansMS";
     src:local("Comic Sans MS"),
-        url("English/ZX-ComicSansMS.ttf");
+        url("English/ZX-E-ComicSansMS.ttf");
 }
 
 /*↓Other*/
 
 @font-face {
     font-family: "ZX-O-FontAwesome";
-    src:url("other/ZX-FontawesomeWebfont.ttf");
+    src:url("other/ZX-O-IMG-FontawesomeWebfont.ttf");
 }
