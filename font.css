@@ -8,7 +8,7 @@
 @font-face {
     font-family: "ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi";
     src:local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2.ttf"),
-        url("Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
 }
 
 /*↓English*/
@@ -16,12 +16,28 @@
 @font-face {
     font-family: "ZX-E-ComicSansMS";
     src:local("Comic Sans MS"),
-        url("English/ZX-E-ComicSansMS.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-ComicSansMS.ttf");
+}
+@font-face {
+    font-family: "ZX-E-FiraCode";
+    src:local("FiraCode-Bold.ttf"),
+        local("FiraCode-Light.ttf"),
+        local("FiraCode-Medium.ttf"),
+        local("FiraCode-Regular.ttf"),
+        local("FiraCode-Retina.ttf"),
+        local("FiraCode-SemiBold.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
 }
 
 /*↓Other*/
 
 @font-face {
     font-family: "ZX-O-IMG-FontAwesome";
-    src:url("other/ZX-O-IMG-FontawesomeWebfont.ttf");
+    src:url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
 }
