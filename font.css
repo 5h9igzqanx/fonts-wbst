@@ -6,19 +6,24 @@
 /*↓Chinese*/
 
 @font-face {
-    font-family: "ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi";
-    src:local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+    font-family: "ZX-C-Aa卑微的我喜欢遥远的你";
+    src:url("Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+}
+@font-face {
+    font-family: "ZX-C-汉仪文黑85w";
+    src:local("汉仪文黑-85W Heavy")，
+        local("HYWenHei85W")
+        url("Chinese/ZX-C-HYWenHei85W.otf");
 }
 
 /*↓English*/
 
-@font-face {
+@font-face{
     font-family: "ZX-E-ComicSansMS";
     src:local("Comic Sans MS"),
         url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-ComicSansMS.ttf");
 }
-@font-face {
+@font-face{
     font-family: "ZX-E-FiraCode";
     src:local("FiraCode-Bold.ttf"),
         local("FiraCode-Light.ttf"),
@@ -26,18 +31,17 @@
         local("FiraCode-Regular.ttf"),
         local("FiraCode-Retina.ttf"),
         local("FiraCode-SemiBold.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
+        url("English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
 }
 
 /*↓Other*/
 
-@font-face {
+@font-face{
     font-family: "ZX-O-IMG-FontAwesome";
     src:url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
 }
