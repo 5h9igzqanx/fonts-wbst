@@ -42,7 +42,17 @@
 }
 @font-face {
     font-family: "ZX-E-Minecraft";
-    src:url("English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
+    src:local("Minecraft-Regular.otf"),
+        local("Minecraft-Italic.otf"),
+        local("Minecraft-Bold.otf"),
+        local("Minecraft-BoldItalic.otf"),
+        local("Minecraft-AE-pixel.ttf"),
+        local("Minecraft Regular.otf"),
+        local("Minecraft Italic.otf"),
+        local("Minecraft Bold.otf"),
+        local("Minecraft BoldItalic.otf"),
+        local("Minecraft AE pixel.ttf"),
+        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
         url("English/ZX-E-Minecraft/ZX-E-Minecraft-Italic.otf"),
         url("English/ZX-E-Minecraft/ZX-E-Minecraft-Bold.otf"),
         url("English/ZX-E-Minecraft/ZX-E-Minecraft-BoldItalic.otf"),
