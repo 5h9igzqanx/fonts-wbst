@@ -40,6 +40,14 @@
         url("English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
         url("English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
 }
+@font-face {
+    font-family: "ZX-E-Minecraft";
+    src:url("English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
+        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Italic.otf"),
+        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Bold.otf"),
+        url("English/ZX-E-Minecraft/ZX-E-Minecraft-BoldItalic.otf"),
+        url("English/ZX-E-Minecraft/ZX-E-Minecraft-AE-pixel.ttf");
+}
 
 /*↓Other*/
 
