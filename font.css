@@ -63,5 +63,6 @@
 
 @font-face{
     font-family: "ZX-O-IMG-FontAwesome";
-    src:url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
+    src:local("FontAwesome.ttf")
+        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
 }
