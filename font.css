@@ -1,6 +1,7 @@
 /*The fonts for my webpages*/
 /*By Zhang-X*/
 /*Show time*/
+/* To developers: DONT FORGET TO ADD THE COMMA!!! */
 
 
 /*↓Chinese*/
@@ -63,6 +64,11 @@
 
 @font-face{
     font-family: "ZX-O-IMG-FontAwesome";
-    src:local("fontawesome-webfont.ttf")
+    src:local("fontawesome-webfont.ttf"),
         url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
+}
+@font-face{
+    font-family: "ZX-O-IMG-SegMdl2";
+    src:local("segmdl2.ttf"),
+        url("https: //5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-SegMdl2.ttf");
 }
