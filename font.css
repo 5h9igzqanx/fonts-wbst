@@ -1,10 +1,10 @@
-/*The fonts for my webpages*/
-/*By Zhang-X*/
-/*Show time*/
+/* The fonts for my webpages */
+/* By 5h9igzqanx */
 /* To developers: DONT FORGET TO ADD THE COMMA!!! */
+/* Show time */
 
 
-/*↓Chinese*/
+/* ↓Chinese */
 
 @font-face {
     font-family: "ZX-C-Aa卑微的我喜欢遥远的你";
@@ -19,7 +19,7 @@
         url("Chinese/ZX-C-HYWenHei85W.otf");
 }
 
-/*↓English*/
+/* ↓English */
 
 @font-face{
     font-family: "ZX-E-ComicSansMS";
@@ -60,7 +60,7 @@
         url("English/ZX-E-Minecraft/ZX-E-Minecraft-AE-pixel.ttf");
 }
 
-/*↓Other*/
+/* ↓Others */
 
 @font-face{
     font-family: "ZX-O-IMG-FontAwesome";
@@ -70,5 +70,5 @@
 @font-face{
     font-family: "ZX-O-IMG-SegMdl2";
     src:local("segmdl2.ttf"),
-        url("https: //5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-SegMdl2.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-SegMdl2.ttf");
 }
