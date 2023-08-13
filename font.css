@@ -10,13 +10,13 @@
     font-family: "ZX-C-Aa卑微的我喜欢遥远的你";
     src:local("Aa卑微的我喜欢遥远的你"),
         local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2"),
-        url("Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
 }
 @font-face {
     font-family: "ZX-C-汉仪文黑85W";
     src:local("汉仪文黑-85W Heavy"),
         local("HYWenHei85W"),
-        url("Chinese/ZX-C-HYWenHei85W.otf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-HYWenHei85W.otf");
 }
 
 /* ↓English */
@@ -34,12 +34,12 @@
         local("FiraCode-Regular.ttf"),
         local("FiraCode-Retina.ttf"),
         local("FiraCode-SemiBold.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
-        url("English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
 }
 @font-face {
     font-family: "ZX-E-Minecraft";
@@ -53,11 +53,11 @@
         local("Minecraft Bold.otf"),
         local("Minecraft BoldItalic.otf"),
         local("Minecraft AE pixel.ttf"),
-        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
-        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Italic.otf"),
-        url("English/ZX-E-Minecraft/ZX-E-Minecraft-Bold.otf"),
-        url("English/ZX-E-Minecraft/ZX-E-Minecraft-BoldItalic.otf"),
-        url("English/ZX-E-Minecraft/ZX-E-Minecraft-AE-pixel.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Italic.otf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Bold.otf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-BoldItalic.otf"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-AE-pixel.ttf");
 }
 
 /* ↓Others */
