@@ -10,13 +10,13 @@
     font-family: "ZX-C-Aa卑微的我喜欢遥远的你";
     src:local("Aa卑微的我喜欢遥远的你"),
         local("AaBeiWeiDeWoXiHuanYaoYuanDeNi-2"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-AaBeiWeiDeWoXiHuanYaoYuanDeNi.ttf") format("truetype");
 }
 @font-face {
     font-family: "ZX-C-汉仪文黑85W";
     src:local("汉仪文黑-85W Heavy"),
         local("HYWenHei85W"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-HYWenHei85W.otf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-HYWenHei85W.otf") format("opentype");
 }
 
 /* ↓English */
@@ -24,18 +24,23 @@
 @font-face{
     font-family: "ZX-E-ComicSansMS";
     src:local("Comic Sans MS"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-ComicSansMS.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-ComicSansMS.ttf") format("truetype");
 }
 @font-face{
     font-family: "ZX-E-FiraCode";
-    src:local("FiraCode-Regular.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
+    src:local("FiraCode-Regular"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf") format("truetype"),
 }
 @font-face {
     font-family: "ZX-E-Minecraft";
-    src:local("Minecraft-Regular.otf"),
-        local("Minecraft Regular.otf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
+    src:local("Minecraft-Regular"),
+        local("Minecraft Regular"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf")  format("opentype"),
+}
+@font-face {
+    font-family: "ZX-E-SourceCodePro";
+    src:local("Source Code Pro Regular"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/English/SourceCodePro/ZX-E-SourceCodePro-Regular.ttf") format("truetype");
 }
 
 /* ↓Others */
@@ -43,10 +48,10 @@
 @font-face{
     font-family: "ZX-O-IMG-FontAwesome";
     src:local("fontawesome-webfont.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf") format("truetype");
 }
 @font-face{
     font-family: "ZX-O-IMG-SegMdl2";
     src:local("segmdl2.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-SegMdl2.ttf");
+        url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-SegMdl2.ttf") format("truetype");
 }
