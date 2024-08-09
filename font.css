@@ -28,36 +28,14 @@
 }
 @font-face{
     font-family: "ZX-E-FiraCode";
-    src:local("FiraCode-Bold.ttf"),
-        local("FiraCode-Light.ttf"),
-        local("FiraCode-Medium.ttf"),
-        local("FiraCode-Regular.ttf"),
-        local("FiraCode-Retina.ttf"),
-        local("FiraCode-SemiBold.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Bold.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Light.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Medium.ttf"),
+    src:local("FiraCode-Regular.ttf"),
         url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Retina.ttf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-SemiBold.ttf");
 }
 @font-face {
     font-family: "ZX-E-Minecraft";
     src:local("Minecraft-Regular.otf"),
-        local("Minecraft-Italic.otf"),
-        local("Minecraft-Bold.otf"),
-        local("Minecraft-BoldItalic.otf"),
-        local("Minecraft-AE-pixel.ttf"),
         local("Minecraft Regular.otf"),
-        local("Minecraft Italic.otf"),
-        local("Minecraft Bold.otf"),
-        local("Minecraft BoldItalic.otf"),
-        local("Minecraft AE pixel.ttf"),
         url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Italic.otf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Bold.otf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-BoldItalic.otf"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-AE-pixel.ttf");
 }
 
 /* ↓Others */
