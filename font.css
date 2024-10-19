@@ -20,8 +20,8 @@
 }
 @font-face {
     font-family: "ZX-C-霞鹜文楷";
-    src:local("霞鹜文楷"),
-        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-LXGWWenKai/ZX-C-LXGWWenKai-Regular.ttf")
+    src:local("LXGW WenKai"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-LXGWWenKai/ZX-C-LXGWWenKai-Regular.ttf") format("truetype");
 }
 
 /* ↓English */
