@@ -18,6 +18,11 @@
         local("HYWenHei85W"),
         url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-HYWenHei85W.otf") format("opentype");
 }
+@font-face {
+    font-family: "ZX-C-霞鹭文楷";
+    src:local("霞鹭文楷"),
+        url("https://5h9igzqanx.github.io/fonts-wbst/Chinese/ZX-C-LXGWWenKai/ZX-C-LXGWWenKai-Regular.ttf")
+}
 
 /* ↓English */
 
@@ -28,13 +33,12 @@
 }
 @font-face{
     font-family: "ZX-E-FiraCode";
-    src:local("FiraCode-Regular"),
+    src:local("FiraCode Regular"),
         url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-FiraCode/ZX-E-FiraCode-Regular.ttf") format("truetype"),
 }
 @font-face {
     font-family: "ZX-E-Minecraft";
-    src:local("Minecraft-Regular"),
-        local("Minecraft Regular"),
+    src:local("Minecraft Regular"),
         url("https://5h9igzqanx.github.io/fonts-wbst/English/ZX-E-Minecraft/ZX-E-Minecraft-Regular.otf")  format("opentype"),
 }
 @font-face {
@@ -47,7 +51,7 @@
 
 @font-face{
     font-family: "ZX-O-IMG-FontAwesome";
-    src:local("fontawesome-webfont.ttf"),
+    src:local("Fontawesome"),
         url("https://5h9igzqanx.github.io/fonts-wbst/other/ZX-O-IMG-FontawesomeWebfont.ttf") format("truetype");
 }
 @font-face{
